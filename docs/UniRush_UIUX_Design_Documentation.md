@@ -1,14 +1,27 @@
-## **UniRush** A U N I V E R S I T Y D E L I V E R Y S Y S T E M _**UI / UX Design Documentation**_ 
+## **UniRush** 
+**UI / UX Design Documentation**
 
-**Document Title:** UniRush UI/UX Design **Platform:** Android · iOS · Web Documentation **Scope:** All user roles **Version:** 2.0 **Design System Version:** v2.0 **Date:** June 2026 **Prepared By:** UniRush Design & Product **Status:** Confidential Draft Team 
+**Document Title:** UniRush UI/UX Design 
+
+**Platform:** Android · iOS · Web Documentation 
+
+**Scope:** All user roles 
+
+**Version:** 2.0 
+
+**Design System Version:** v2.0 
+
+**Date:** June 2026 
+
+**Prepared By:** UniRush Design & Product 
+
+**Status:** Confidential Draft Team 
 
 _This document is the authoritative reference for all UI and UX decisions relating to the UniRush platform. It is intended for use by product designers, frontend engineers, and QA teams. All screen designs must comply with the specifications herein._ 
 
 UniRush UI/UX Design Documentation  |  Version 2.0  |  June 2026  |  Page 1 of 24 
 
 ## **1. Introduction** 
-
-UniRush is a university-focused delivery and transport platform operating within and around campuses in Uganda. It connects students (clients) with local sellers and transport agents for food, clothing, household goods, and transport services. The platform supports five distinct user roles — Client, Seller, Boda Rider, Car Owner, and Student Agent — with a unique dual-role capability that allows a student to act as both a client and an agent under a single account. 
 
 This UI/UX Design Documentation defines the visual language, interaction patterns, component specifications, screen flows, and usability guidelines for the UniRush mobile and web applications. It serves as the single source of truth for design and engineering teams throughout the product lifecycle. 
 

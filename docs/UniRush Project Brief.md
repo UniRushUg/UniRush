@@ -4,17 +4,6 @@
 
 Campus Delivery Application — Project Brief 
 
-## **Team Members** 
-
-|**Name**|**Roles**|
-|---|---|
-|Emilly Sendikaddiwa|Quality Assurance & Front-End Developer|
-|Matthias Imani|Scrum Master & Back-End Developer|
-|Eric Dickens|Product Owner & Front-End Developer|
-|Ernest Ntare|Documentation, User Experience & Back-End<br>Developer|
-
-
-
 ## _1. Project Name_ 
 
 _UniRush_ 
@@ -25,7 +14,7 @@ _UniRush_
 |---|---|
 |Emilly Sendikaddiwa|Quality Assurance & Front End Developer|
 |Matthias Imani|Scrum Master & Back End Developer|
-|Eric Dickens|Product Owner & Front End Developer|
+|Eric Dickens|Front End Developer|
 |Ernest Ntare|Documentation, User Experience & Back End<br>Developer|
 
 

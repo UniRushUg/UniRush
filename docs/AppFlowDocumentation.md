@@ -10,9 +10,7 @@ June 2026  —  Version 2.0  —  Confidential Draft
 
 ## **1. Platform Overview** 
 
-UniRush is a university-focused delivery and transport platform operating within and around campuses in Uganda. It connects students (clients) with local sellers and transport agents to fulfill orders for food, clothing, household goods, and transportation services. 
-
-_UniRush recognises that many students own motorcycles or cars and can serve as transport agents alongside their studies. The platform therefore supports dual roles: a student can be both a Client and a Boda Rider or Car Owner on the same account, switching between roles from a single login._ 
+UniRush  is a campus-focused delivery application that connects individuals who need items delivered with available delivery personnel — including boda boda riders, bicycle couriers, and fellow students. The platform streamlines on-campus and near-campus deliveries, offering a fast, reliable, and affordable service for the university community. 
 
 |**User Type**|**Who They Are**|**What They Do**|**Key Identifier**|
 |---|---|---|---|
